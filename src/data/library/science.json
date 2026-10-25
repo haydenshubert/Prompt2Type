@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sc-octopus",
+    "title": "Three Hearts",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "An octopus has three hearts and blue blood. Two of the hearts pump blood through the gills, while the third sends it to the rest of the body. When the octopus swims, the main heart actually stops beating, which is one reason these animals prefer to crawl along the sea floor instead."
+  },
+  {
+    "id": "sc-honey",
+    "title": "Honey Never Spoils",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "Honey is one of the few foods that never truly goes bad. Its low moisture and natural acidity make it a poor home for bacteria, and bees add a little enzyme that slowly produces a mild preservative. Jars sealed thousands of years ago have been opened and found perfectly edible."
+  },
+  {
+    "id": "sc-lightning",
+    "title": "Hotter Than the Sun",
+    "category": "science",
+    "difficulty": "medium",
+    "text": "A single bolt of lightning can heat the air around it to about thirty thousand degrees Celsius, which is roughly five times hotter than the surface of the sun. The air expands so quickly that it creates a shock wave. That shock wave is what we hear as thunder."
+  },
+  {
+    "id": "sc-trees",
+    "title": "The Wood Wide Web",
+    "category": "science",
+    "difficulty": "hard",
+    "text": "Beneath a forest floor, networks of fungi connect the roots of many trees. Through these tiny threads, trees can trade sugars, water, and even chemical warnings about insects. Scientists once thought each tree grew alone, but it now seems that a forest behaves less like a crowd of individuals and more like a slow, quiet community."
+  },
+  {
+    "id": "sc-moon",
+    "title": "The Drifting Moon",
+    "category": "science",
+    "difficulty": "medium",
+    "text": "The moon is slowly moving away from the Earth at about the same rate that your fingernails grow, roughly four centimeters each year. Long ago it sat much closer, and the tides were enormous. Billions of years from now, a total solar eclipse will no longer be possible, because the moon will look too small."
+  },
+  {
+    "id": "sc-sleep",
+    "title": "Why We Dream",
+    "category": "science",
+    "difficulty": "hard",
+    "text": "Nobody is completely certain why humans dream, but several ideas compete. Some researchers believe dreams help the brain sort memories and discard clutter. Others suggest they rehearse emotions or practice responses to danger. Whatever the reason, most people have four or five dreams each night, and almost all of them are forgotten within minutes of waking."
+  },
+  {
+    "id": "sc-water",
+    "title": "Strange Water",
+    "category": "science",
+    "difficulty": "medium",
+    "text": "Water behaves in ways that are surprising for such a common substance. Unlike most liquids, it expands when it freezes, so ice floats instead of sinking. If it did not, lakes would freeze from the bottom upward, and most aquatic life would vanish every winter. That small oddity quietly makes our planet livable."
+  },
+  {
+    "id": "sc-bananas",
+    "title": "Radioactive Snacks",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "Bananas are slightly radioactive. They contain potassium, and a tiny fraction of natural potassium is a radioactive form. Do not worry, though, because the amount is far too small to hurt you. You would need to eat millions of bananas in one sitting for the radiation to matter."
+  }
+]

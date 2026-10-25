@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fa-tortoise",
+    "title": "The Tortoise and the Hare",
+    "category": "fables",
+    "difficulty": "easy",
+    "source": "Aesop, retold",
+    "text": "A hare once laughed at a tortoise for being so slow. \"Race me,\" said the tortoise calmly. The hare sprinted ahead and, certain of victory, lay down for a nap. The tortoise kept walking, one steady step after another, and crossed the finish line while the hare was still asleep."
+  },
+  {
+    "id": "fa-crow",
+    "title": "The Crow and the Pitcher",
+    "category": "fables",
+    "difficulty": "easy",
+    "source": "Aesop, retold",
+    "text": "A thirsty crow found a pitcher with only a little water at the bottom. Its beak could not reach. The crow began dropping pebbles into the pitcher, one at a time, and the water rose higher and higher until at last the bird could drink. Little by little, a clever mind gets the job done."
+  },
+  {
+    "id": "fa-mouse",
+    "title": "The Lion and the Mouse",
+    "category": "fables",
+    "difficulty": "medium",
+    "source": "Aesop, retold",
+    "text": "A mighty lion spared a tiny mouse that had woken him. Some days later, the lion was caught in a hunter's net and roared in despair. The mouse heard and hurried over, gnawing through the ropes until the lion was free. No kindness, however small, is ever wasted."
+  },
+  {
+    "id": "fa-ant",
+    "title": "The Ant and the Grasshopper",
+    "category": "fables",
+    "difficulty": "medium",
+    "source": "Aesop, retold",
+    "text": "All summer long, the grasshopper sang and played while the ant carried grain to its nest. When winter came, the grasshopper was cold and hungry. \"Why did you not store food?\" asked the ant. Then, being kind, the ant shared a little, and the grasshopper promised to prepare earlier next year."
+  },
+  {
+    "id": "fa-wolf",
+    "title": "The Boy Who Cried Wolf",
+    "category": "fables",
+    "difficulty": "medium",
+    "source": "Aesop, retold",
+    "text": "A shepherd boy grew bored and shouted, \"Wolf!\" The villagers rushed up the hill, only to find him laughing. He tried it again, and again they came. Then one evening a real wolf appeared. The boy screamed for help, but nobody believed him anymore, and the flock was lost."
+  },
+  {
+    "id": "fa-fox",
+    "title": "The Fox and the Grapes",
+    "category": "fables",
+    "difficulty": "easy",
+    "source": "Aesop, retold",
+    "text": "A hungry fox spotted a bunch of ripe grapes hanging from a high vine. He leaped and leaped but could not reach them. At last he walked away, muttering, \"They are probably sour anyway.\" It is easy to despise what we cannot have."
+  }
+]

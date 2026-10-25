@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tw-peter",
+    "title": "Peter Piper",
+    "category": "twisters",
+    "difficulty": "medium",
+    "text": "Peter Piper picked a peck of pickled peppers. A peck of pickled peppers Peter Piper picked. If Peter Piper picked a peck of pickled peppers, where is the peck of pickled peppers Peter Piper picked?"
+  },
+  {
+    "id": "tw-shells",
+    "title": "She Sells Seashells",
+    "category": "twisters",
+    "difficulty": "medium",
+    "text": "She sells seashells by the seashore. The shells she sells are surely seashells. So if she sells shells on the seashore, I'm sure she sells seashore shells."
+  },
+  {
+    "id": "tw-wood",
+    "title": "Woodchuck",
+    "category": "twisters",
+    "difficulty": "easy",
+    "text": "How much wood would a woodchuck chuck if a woodchuck could chuck wood? He would chuck, he would, as much as he could, and chuck as much wood as a woodchuck would if a woodchuck could chuck wood."
+  },
+  {
+    "id": "tw-pangram",
+    "title": "Pangrams",
+    "category": "twisters",
+    "difficulty": "easy",
+    "text": "The quick brown fox jumps over the lazy dog. Pack my box with five dozen liquor jugs. How vexingly quick daft zebras jump. Sphinx of black quartz, judge my vow."
+  },
+  {
+    "id": "tw-fuzzy",
+    "title": "Fuzzy Wuzzy",
+    "category": "twisters",
+    "difficulty": "easy",
+    "text": "Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn't very fuzzy, was he?"
+  },
+  {
+    "id": "tw-betty",
+    "title": "Betty Botter",
+    "category": "twisters",
+    "difficulty": "hard",
+    "text": "Betty Botter bought some butter, but she said the butter's bitter. If I put it in my batter, it will make my batter bitter. So she bought a bit of better butter, and it made her batter better."
+  }
+]

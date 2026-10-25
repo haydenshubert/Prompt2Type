@@ -1,0 +1,44 @@
+[
+  {
+    "id": "we-gorilla",
+    "title": "The Gorilla President",
+    "category": "weird",
+    "difficulty": "medium",
+    "text": "The gorilla stood confidently behind the desk in the Oval Office as the newly elected president. Reporters crowded the hallway, whispering about the unusual campaign promise of free bananas for all. His first act was to sign a bill declaring every Friday a national nap day. Approval ratings soared, and the opposition could only grumble."
+  },
+  {
+    "id": "we-socks",
+    "title": "The Sock Dimension",
+    "category": "weird",
+    "difficulty": "easy",
+    "text": "Everyone knows that socks vanish in the dryer, but nobody asks where they go. They travel to a quiet dimension full of lonely single socks, drifting like jellyfish in warm air. Occasionally a brave one finds a portal and returns, though usually wearing the wrong color and acting very smug."
+  },
+  {
+    "id": "we-pizza",
+    "title": "Pizza Planet",
+    "category": "weird",
+    "difficulty": "easy",
+    "text": "Astronauts discovered a small planet made entirely of pizza. The mountains were crusty, the rivers were tomato sauce, and clouds of grated cheese drifted overhead. Captain Lopez took one bite of the ground and declared it the best discovery in the history of space travel. Then she asked if anybody had brought napkins."
+  },
+  {
+    "id": "we-cat",
+    "title": "The Cat Who Ran the Bank",
+    "category": "weird",
+    "difficulty": "medium",
+    "text": "No one could say how the orange cat became manager of the First National Bank, but the results were undeniable. Lines moved faster, coffee was free, and every loan application was approved after a single thoughtful sniff. The only rule was never to disturb the manager during her afternoon nap in the vault."
+  },
+  {
+    "id": "we-cloud",
+    "title": "Collecting Clouds",
+    "category": "weird",
+    "difficulty": "hard",
+    "text": "Professor Quill collected clouds in glass jars and arranged them on shelves by temperament. The cheerful cumulus bounced gently against the lids, while the sulking nimbus rumbled softly in the corner. Visitors were warned never to open the jar labeled \"stratus, moody\" unless they brought an umbrella and plenty of patience."
+  },
+  {
+    "id": "we-penguin",
+    "title": "Penguin Detective Agency",
+    "category": "weird",
+    "difficulty": "medium",
+    "text": "Detective Waddles adjusted his tiny hat and studied the scene. Someone had stolen the last fish from the icebox at the South Pole Cafe. There were three suspects: a seal with a suspicious grin, a polar bear who claimed to be on a diet, and a seagull who would not stop whistling. Waddles smiled; the case was already solved."
+  }
+]

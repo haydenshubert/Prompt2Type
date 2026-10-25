@@ -1,0 +1,44 @@
+[
+  {
+    "id": "te-bug",
+    "title": "The First Bug",
+    "category": "tech",
+    "difficulty": "easy",
+    "text": "In 1947, engineers working on an early computer at Harvard traced a fault to a moth stuck inside a relay. They taped the insect into their logbook and wrote, \"First actual case of bug being found.\" The word bug was already used for glitches, but the story made it famous."
+  },
+  {
+    "id": "te-internet",
+    "title": "How a Message Travels",
+    "category": "tech",
+    "difficulty": "medium",
+    "text": "When you send a message online, it is chopped into small packets. Each packet may take a different route across the network, hopping between routers like a letter passing through post offices. At the other end, the packets are put back in order. If one goes missing, the receiving computer simply asks for it again."
+  },
+  {
+    "id": "te-password",
+    "title": "Long Beats Complex",
+    "category": "tech",
+    "difficulty": "medium",
+    "text": "A long password made of several unrelated words is usually stronger than a short one filled with symbols. Computers guessing passwords care about how many possibilities exist, and every extra character multiplies that number. A phrase that is easy for you to remember can be very hard for a machine to guess."
+  },
+  {
+    "id": "te-js",
+    "title": "Code: Greeting Function",
+    "category": "tech",
+    "difficulty": "hard",
+    "text": "const greet = (name) => { if (!name) { return \"Hello, stranger!\"; } return `Hello, ${name}!`; }; console.log(greet(\"Ada\")); console.log(greet());"
+  },
+  {
+    "id": "te-py",
+    "title": "Code: Fibonacci",
+    "category": "tech",
+    "difficulty": "hard",
+    "text": "def fib(n): a, b = 0, 1 for _ in range(n): yield a a, b = b, a + b print(list(fib(10)))"
+  },
+  {
+    "id": "te-binary",
+    "title": "Counting in Twos",
+    "category": "tech",
+    "difficulty": "easy",
+    "text": "Computers count with only two digits, zero and one, because a switch is either off or on. A single digit is called a bit, and eight bits make a byte. With just one byte, a computer can write any number from zero to two hundred fifty-five."
+  }
+]

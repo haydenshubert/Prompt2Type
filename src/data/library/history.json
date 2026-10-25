@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hi-library",
+    "title": "The Great Library",
+    "category": "history",
+    "difficulty": "medium",
+    "text": "In the ancient city of Alexandria stood a library that tried to collect every book in the world. Ships entering the harbor were searched, and any scrolls on board were copied. The originals stayed in the library, while the owners received the copies. Scholars came from distant lands to study there, and for centuries it was the brightest center of learning on Earth."
+  },
+  {
+    "id": "hi-printing",
+    "title": "Movable Type",
+    "category": "history",
+    "difficulty": "medium",
+    "text": "Before the printing press, a single book could take a scribe many months to copy by hand. Around the year 1450, Johannes Gutenberg combined movable metal letters with a press adapted from wine making. Books became cheaper and far more common. Within fifty years, millions of volumes were in circulation, and ideas began to travel faster than ever before."
+  },
+  {
+    "id": "hi-wall",
+    "title": "The Long Wall",
+    "category": "history",
+    "difficulty": "easy",
+    "text": "The Great Wall of China is not one wall but many, built and rebuilt by different rulers over more than two thousand years. Some sections are made of stone and brick, while others are simply packed earth. Contrary to a popular myth, it cannot be seen from space with the naked eye."
+  },
+  {
+    "id": "hi-flight",
+    "title": "Twelve Seconds",
+    "category": "history",
+    "difficulty": "easy",
+    "text": "On a windy morning in December 1903, two brothers from Ohio rolled their fragile machine onto a beach in North Carolina. Orville climbed aboard and the engine roared. The first flight lasted only twelve seconds and covered about thirty meters. It was short, but it changed the world forever."
+  },
+  {
+    "id": "hi-silk",
+    "title": "The Silk Roads",
+    "category": "history",
+    "difficulty": "hard",
+    "text": "The Silk Roads were never a single road, but a web of trails that linked China, India, Persia, and Rome. Merchants rarely traveled the whole distance; goods passed from hand to hand across many markets. Along with silk and spices, caravans carried religions, inventions, and stories, and sometimes diseases as well."
+  },
+  {
+    "id": "hi-moon",
+    "title": "One Small Step",
+    "category": "history",
+    "difficulty": "medium",
+    "text": "In July 1969, hundreds of millions of people crowded around television sets to watch grainy images from the surface of the moon. Neil Armstrong stepped from the ladder and spoke words that would be repeated for generations. Back on Earth, no one in the room said anything at all, because for a few moments everyone was holding their breath."
+  },
+  {
+    "id": "hi-pompeii",
+    "title": "Frozen in Ash",
+    "category": "history",
+    "difficulty": "hard",
+    "text": "When Mount Vesuvius erupted in the year 79, the Roman town of Pompeii was buried under several meters of ash and pumice. The disaster was terrible, yet it preserved the city almost perfectly. Centuries later, archaeologists uncovered bakeries with loaves still in the ovens, scribbled wall jokes, and mosaics so bright they looked freshly laid."
+  },
+  {
+    "id": "hi-tea",
+    "title": "How Tea Conquered the World",
+    "category": "history",
+    "difficulty": "easy",
+    "text": "According to legend, tea was discovered when leaves blew into the pot of an emperor who was boiling water. Whether or not that is true, tea has been enjoyed in China for thousands of years. Traders carried it across oceans, and today it is the most widely consumed drink in the world after water."
+  }
+]

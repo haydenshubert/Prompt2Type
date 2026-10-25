@@ -1,0 +1,58 @@
+[
+  {
+    "id": "st-lighthouse",
+    "title": "The Last Lighthouse Keeper",
+    "category": "stories",
+    "difficulty": "medium",
+    "text": "Marta had kept the lighthouse for forty years, and every evening she climbed the one hundred and twelve steps to wake the great lamp. The ships no longer needed her, since they carried glowing screens that spoke in calm voices. Still, she polished the lens each morning. One foggy night, every screen on the harbor went dark at once. Marta lit the lamp, and a single beam crossed the water. Slowly, one by one, the boats found their way home."
+  },
+  {
+    "id": "st-bakery",
+    "title": "The Midnight Bakery",
+    "category": "stories",
+    "difficulty": "easy",
+    "text": "At midnight, when the town was asleep, the little bakery on Elm Street opened its doors. Nobody knew who baked the bread. Each morning, warm loaves sat in the window, and a coin jar stood beside them. Tom decided to stay awake and watch. At exactly twelve, a tiny gray cat jumped onto the counter, rang a bell, and a hundred mice marched in with flour on their whiskers."
+  },
+  {
+    "id": "st-map",
+    "title": "The Map With No Edges",
+    "category": "stories",
+    "difficulty": "hard",
+    "text": "The old cartographer unrolled a map that had no edges. Every time Iris traced the coastline with her finger, new harbors appeared, and tiny ships sailed out of them. She followed a river inland, past mountains that rose from the paper like folded cloth, until the ink beneath her hand began to hum. \"Do not look for the center,\" the cartographer warned. \"Nobody who found it ever came back to the margins.\""
+  },
+  {
+    "id": "st-train",
+    "title": "The Train to Nowhere Special",
+    "category": "stories",
+    "difficulty": "easy",
+    "text": "Every Sunday, a small green train left the station and went nowhere in particular. Passengers brought sandwiches and books and simply watched the hills roll by. Ben was nine, and it was his first ride. He pressed his nose against the glass and counted eleven cows, four bridges, and one very surprised goat. When the train returned, he said it was the best trip he had ever taken."
+  },
+  {
+    "id": "st-robot-garden",
+    "title": "The Robot Who Grew Tomatoes",
+    "category": "stories",
+    "difficulty": "medium",
+    "text": "Unit 7 was built to sort packages, but on its break it wandered behind the warehouse and found a patch of dirt. It dropped a seed it had saved from someone's lunch. Every day it watered the spot with a careful measured spoonful. Weeks later, a small green stem appeared, then yellow flowers, then a single red tomato. Unit 7 did not know how to eat, so it shared the tomato with the night guard."
+  },
+  {
+    "id": "st-storm",
+    "title": "Letters in the Storm",
+    "category": "stories",
+    "difficulty": "hard",
+    "text": "When the storm knocked out the power, the whole apartment building gathered in the stairwell with candles. Strangers who had shared a wall for years finally exchanged names. Mr. Okafor produced a deck of cards, Lena brought a thermos of cocoa, and a boy named Sam asked everyone for their favorite memory. By the time the lights flickered back on, nobody wanted to go home; the storm had become the best party of the year."
+  },
+  {
+    "id": "st-dragon-tea",
+    "title": "Tea With the Dragon",
+    "category": "stories",
+    "difficulty": "medium",
+    "text": "The dragon in the mountain was not fierce at all; she was merely lonely. When a young knight arrived with a shining sword, she offered him tea instead of fire. They talked for hours about weather, poetry, and the terrible price of gold. At dawn the knight set down his sword and said he would visit again. The dragon smiled, which looked alarming, but he had learned to recognize it."
+  },
+  {
+    "id": "st-clockmaker",
+    "title": "The Clockmaker's Apprentice",
+    "category": "stories",
+    "difficulty": "hard",
+    "text": "Odette swept the workshop floor while the clockmaker bent over a tiny brass movement, humming softly. \"Time is not a river,\" he often said. \"It is a garden, and gardens need patience.\" On her last day as an apprentice, he handed her a pocket watch with no numbers on its face. \"It will tell you when you are ready,\" he said. Years later, she was still not sure it had ever been wrong."
+  }
+]

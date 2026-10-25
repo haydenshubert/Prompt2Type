@@ -1,0 +1,66 @@
+[
+  {
+    "id": "qu-stage",
+    "title": "All the World's a Stage",
+    "category": "quotes",
+    "difficulty": "easy",
+    "source": "William Shakespeare, As You Like It",
+    "text": "All the world's a stage, and all the men and women merely players. They have their exits and their entrances, and one man in his time plays many parts."
+  },
+  {
+    "id": "qu-times",
+    "title": "Best of Times",
+    "category": "quotes",
+    "difficulty": "medium",
+    "source": "Charles Dickens, A Tale of Two Cities",
+    "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity."
+  },
+  {
+    "id": "qu-hope",
+    "title": "Hope",
+    "category": "quotes",
+    "difficulty": "easy",
+    "source": "Emily Dickinson",
+    "text": "Hope is the thing with feathers that perches in the soul, and sings the tune without the words, and never stops at all."
+  },
+  {
+    "id": "qu-step",
+    "title": "A Single Step",
+    "category": "quotes",
+    "difficulty": "easy",
+    "source": "Lao Tzu, Tao Te Ching",
+    "text": "A journey of a thousand miles begins with a single step."
+  },
+  {
+    "id": "qu-franklin",
+    "title": "Well Done",
+    "category": "quotes",
+    "difficulty": "easy",
+    "source": "Benjamin Franklin",
+    "text": "Well done is better than well said. Lost time is never found again. Early to bed and early to rise makes a man healthy, wealthy, and wise."
+  },
+  {
+    "id": "qu-slowly",
+    "title": "Keep Going",
+    "category": "quotes",
+    "difficulty": "easy",
+    "source": "Attributed to Confucius",
+    "text": "It does not matter how slowly you go as long as you do not stop."
+  },
+  {
+    "id": "qu-alice",
+    "title": "Down the Rabbit-Hole",
+    "category": "quotes",
+    "difficulty": "hard",
+    "source": "Lewis Carroll, Alice's Adventures in Wonderland",
+    "text": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do. Once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it."
+  },
+  {
+    "id": "qu-whale",
+    "title": "Call Me Ishmael",
+    "category": "quotes",
+    "difficulty": "medium",
+    "source": "Herman Melville, Moby-Dick",
+    "text": "Call me Ishmael. Some years ago, never mind how long precisely, having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world."
+  }
+]
